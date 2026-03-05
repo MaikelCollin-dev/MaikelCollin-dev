@@ -1,20 +1,19 @@
 # Hi there, I'm MaikelCollin! 👋
-
-[![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-
 ---
 
 ## 🌐 About Me
-```Developer specializing in Java and Python. I'm primarily active on Discord and in Minecraft. So if you need any help, let me know!```
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/minecraft/minecraft-original-wordmark.svg" width="50"/>
+```Developer specializing in Java and Python. I primarily use IntelliJ IDEA and Blockbench. I'm mainly active on Discord and in Minecraft. So if you need any help, let me know!```
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/250px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png" width="50"/>
+  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="50"/>
+  <img src="https://static.wikia.nocookie.net/animatorvsanimation/images/5/52/MinecraftIcon.png/revision/latest?cb=20250423103804" width="50"/>
+</p>
 
 ---
 
 ## 💻 Programming Languages
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
 </p>
