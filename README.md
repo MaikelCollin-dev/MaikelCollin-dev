@@ -2,7 +2,7 @@
 ---
 
 ## 🌐 About Me
-```Developer specializing in Java and Python. I primarily use IntelliJ IDEA and Blockbench. I'm mainly active on Discord and in Minecraft. So if you need any help, let me know!```
+```I'm a developer specializing in Java and Python. I also do some design work on the side. I mainly use IntelliJ IDEA and Blockbench. I'm primarily active on Discord and in Minecraft.```
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/JetBrains_IntelliJ_IDEA_Product_Icon.svg/250px-JetBrains_IntelliJ_IDEA_Product_Icon.svg.png" width="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Blockbench_icon.png" width="50"/>
