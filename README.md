@@ -1,16 +1,25 @@
-## Hi there 👋
+# Projektname
 
-<!--
-**MaikelCollin-dev/MaikelCollin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Kurze Beschreibung deines Projekts.  
+Erkläre in 1–2 Sätzen, was das Projekt macht und warum es existiert.
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Feature 1
+- Feature 2
+- Feature 3
+- Einfach zu benutzen
+- Open Source
+
+## Installation
+
+### Voraussetzungen
+- Java 17+
+- Maven oder Gradle
+- Minecraft Server (z.B. Paper / Spigot)
+
+### Schritte
+
+```bash
+git clone https://github.com/username/projektname.git
+cd projektname
