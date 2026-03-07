@@ -22,4 +22,4 @@
 
 ## 🔗 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/MaikelCollin-dev)  
-[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/HHABjRTa8s)
+**[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discord.gg/2KrF4yYfY4)**
